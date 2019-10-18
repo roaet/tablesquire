@@ -4,7 +4,7 @@ Flask-SQLAlchemy==2.0
 Jinja2==2.8
 MarkupSafe==0.23
 SQLAlchemy==1.0.8
-Werkzeug==0.10.4
+Werkzeug==0.15.3
 argparse==1.2.1
 cffi==1.1.2
 cryptography==0.9.3
